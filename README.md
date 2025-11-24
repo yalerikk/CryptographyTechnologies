@@ -48,7 +48,7 @@
 
 ## Инструкции по запуску
 Для запуска проекта выполните следующие шаги:
-1. Клонируйте репозиторий: `git clone https://github.com/yalerikk/kgt.git`
+1. Клонируйте репозиторий: `git clone https://github.com/yalerikk/CryptographyTechnologies.git`
 2. Перейдите в директорию проекта: `cd kgt`
 3. Выберите нужный день: `cd src/task1.java`
 4. Запустите нужный файл Java.
